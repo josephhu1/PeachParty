@@ -2,9 +2,8 @@
 
 PeachParty is an object-oriented board game where two players control the actors: Peach and Yoshi. 
 
-*This project emphasizes OOP programming, inheritance/polymorphism and abstraction. 
-
-*I coded the following files: Actor.cpp, Actor.h, StudentWorld.cpp, and StudentWorld.h
+Markup: * This project emphasizes OOP programming, inheritance/polymorphism and abstraction. 
+        * I coded the following files: Actor.cpp, Actor.h, StudentWorld.cpp, and StudentWorld.h
 
 Goal of the game is to collect coins and stars while avoiding enemies (Bowser and Boo) and end up with the most coins and stars. A virtual dice of 10 sides is used. Players can choose any direction to move in at forks. There are different types of enemies and squares that each have different effects on Peach and Yoshi. 
 
