@@ -1,7 +1,7 @@
 # PeachParty
 
-PeachParty is an object-oriented board game where two players control the actors: Peach and Yoshi. 
-* This project emphasizes OOP programming, inheritance/polymorphism and abstraction. 
+__PeachParty is an object-oriented board game where two players control the actors: Peach and Yoshi.__
+* This project emphasizes OOP programming, inheritance/polymorphism and abstraction
 * I coded the following files: Actor.cpp, Actor.h, StudentWorld.cpp, and StudentWorld.h
 
 Description:
