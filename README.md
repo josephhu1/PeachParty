@@ -12,7 +12,6 @@ Description:
 
 <img width="765" alt="Screenshot 2023-09-20 at 12 50 15 AM" src="https://github.com/josephhu7/PeachParty/assets/108597065/ec7cb94b-7fae-4b78-aa6a-0f5ca1d4cf38">
 
-To build the game:
-
-make\
-./PeachParty
+To build:
+* make\
+* ./PeachParty
